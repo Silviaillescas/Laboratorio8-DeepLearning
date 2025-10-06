@@ -1,0 +1,21 @@
+{
+  "window": 30,
+  "horizon": 90,
+  "feature_cols": [
+    "dow",
+    "week",
+    "month",
+    "year",
+    "day",
+    "store",
+    "item"
+  ],
+  "cont_cols": [
+    "dow",
+    "week",
+    "month",
+    "year",
+    "day"
+  ],
+  "target": "sales_log1p"
+}
